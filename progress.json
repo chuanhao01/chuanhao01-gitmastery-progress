@@ -447,5 +447,14 @@
       "Great work! All required branches are present and correctly set up."
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1787045248.212578,
+    "completed_at": 1787045253.639715,
+    "comments": [
+      "Remote branch STU still exists."
+    ],
+    "status": "Incomplete"
   }
 ]
