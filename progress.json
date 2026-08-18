@@ -195,5 +195,14 @@
       "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787043207.636046,
+    "completed_at": 1787043208.881015,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
   }
 ]
