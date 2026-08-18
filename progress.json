@@ -330,5 +330,14 @@
       "Branch 'login' was not renamed to 'feature/login'!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1787044173.746508,
+    "completed_at": 1787044176.75304,
+    "comments": [
+      "Branch 'login' was not renamed to 'feature/login'!"
+    ],
+    "status": "Incomplete"
   }
 ]
