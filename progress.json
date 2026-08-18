@@ -61,5 +61,12 @@
       "Answer for What is the SHA of the commit HEAD points to? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787041772.838192,
+    "completed_at": 1787041774.127997,
+    "comments": [],
+    "status": "Completed"
   }
 ]
