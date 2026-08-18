@@ -321,5 +321,14 @@
       "Great work resolving the merge conflict!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1787044146.35252,
+    "completed_at": 1787044149.088546,
+    "comments": [
+      "Branch 'login' was not renamed to 'feature/login'!"
+    ],
+    "status": "Incomplete"
   }
 ]
